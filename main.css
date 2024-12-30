@@ -1,0 +1,9 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.main-outer{
+    min-height: 150px;
+    background-color: #003BA0;
+    width:100%
+}
